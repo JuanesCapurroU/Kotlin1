@@ -1,13 +1,8 @@
 fun main() {
     println("Hola mundo")
-    println("Primer ejercicio Kotlin")
+    println("Juan E. Capurro B.")
+    println("Me gusta jugar videojuegos y futbol")
 
-    println("Primer ejercicio Kotlin")
-    println("Primer ejercicio Kotlin")
-    println("Primer ejercicio Kotlin")
-    println("Primer ejercicio Kotlin")
-    println("Primer ejercicio Kotlin")
-    println("Primer ejercicio Kotlin")
 
 
 }
